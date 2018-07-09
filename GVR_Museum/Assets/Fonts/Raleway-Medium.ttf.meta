@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: ee0d307c05065437aa8ed2cbb245aad4
+timeCreated: 1530478685
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Raleway
+  fontNames:
+  - Raleway
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d7cc39b96e4f247eb881b8c032b16a4b, type: 3}
+  - {fileID: 12800000, guid: 1ca6e8f9c6af94726baa7bd4eb79bacd, type: 3}
+  - {fileID: 12800000, guid: 2a611bf99684147a884f66162c71216d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
